@@ -104,13 +104,13 @@ annotations:
     reference: ''
     span:
       start: 18854
-      end: 19931
+      end: 19999
   01fd81c9389940f6a3a0447ae508437a:
     imgnum: 1654
     reference: ''
     span:
-      start: 19933
-      end: 19989
+      start: 20001
+      end: 20057
   f28f5b7ced244d99bf7a212a9fa7bd21:
     imgnum: 1655
     reference: ''
